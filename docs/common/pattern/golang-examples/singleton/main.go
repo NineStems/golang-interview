@@ -13,7 +13,8 @@ func newSingleton() *Singleton {
 	if singleton != nil {
 		return singleton
 	}
-	return &Singleton{}
+	singleton = &Singleton{}
+	return singleton
 }
 
 func main() {
