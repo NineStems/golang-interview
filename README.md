@@ -51,6 +51,8 @@
 
 ### [Алгоритмы](docs/common/algorithm/algorithm.md)
 
+### [Структуры данных](docs/common/data-struct/data-struct.md)
+
 ### [Микросервисы](docs/common/microservice/microservice.md)
 
 ### [Инфраструктура и деплой](docs/common/infra/infra.md)
