@@ -20,6 +20,10 @@
 
 [Описание на wiki](ru.wikipedia.org/wiki/REST)
 
+## DDD 
+
+## Hexagonal
+
 ## SOLID
 
 ## KISS
