@@ -34,6 +34,7 @@
 
 ### [Архитектура](docs/common/architecture/architecture.md)
 - [Clean Arch](docs/common/architecture/architecture.md#Clean-architecture)
+- [DDD](docs/common/architecture/architecture.md#DDD)
 - [REST](docs/common/architecture/architecture.md#REST)
 - [SOLID](docs/common/architecture/architecture.md#SOLID)
 - [KISS](docs/common/architecture/architecture.md#KISS)
