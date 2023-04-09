@@ -51,18 +51,28 @@
 - [NAT](docs/common/protocol/protocol.md#NAT)
 
 ### [Алгоритмы](docs/common/algorithm/algorithm.md)
+#### Базовые
+##### Поиск и обход
 - [Бинарный поиск](docs/common/algorithm/algorithm.md#Бинарный-поиск)
+- [Поиск в ширину](docs/common/algorithm/algorithm.md#Поиск-в-ширину)
+- [Поиск в глубину](docs/common/algorithm/algorithm.md#Поиск-в-глубину)
+##### Сортировка
 - [Сортировки пузырьком](docs/common/algorithm/algorithm.md#Сортировки-пузырьком)
 - [Сортировка выбором](docs/common/algorithm/algorithm.md#Сортировка-выбором)
 - [Сортировка вставками](docs/common/algorithm/algorithm.md#Сортировка-вставками)
 - [Быстрая сортировка](docs/common/algorithm/algorithm.md#Быстрая-сортировка)
 - [Сортировка слиянием](docs/common/algorithm/algorithm.md#Сортировка-слиянием)
+- [Топологическая сортировка](docs/common/algorithm/algorithm.md#Топологическая-сортировка)
+- [Сортировка подсчётом](docs/common/algorithm/algorithm.md#Сортировка-подсчётом)
+#### Продвинутые
+##### Поиск и обход
 - [Кодирование Хаффмена](docs/common/algorithm/algorithm.md#Кодирование-Хаффмена)
-- [Поиск в ширину](docs/common/algorithm/algorithm.md#Поиск-в-ширину)
-- [Поиск в глубину](docs/common/algorithm/algorithm.md#Поиск-в-глубину)
 - [Градиентный спуск](docs/common/algorithm/algorithm.md#Градиентный-спуск)
 - [Алгоритм Дейкстры](docs/common/algorithm/algorithm.md#Алгоритм-Дейкстры)
 - [Обмен ключами Диффи-Хеллмана](docs/common/algorithm/algorithm.md#Обмен-ключами-Диффи-Хеллмана)
+- [Quickselect](docs/common/algorithm/algorithm.md#Quickselect)
+- [Алгоритм Беллмана Форда](docs/common/algorithm/algorithm.md#Алгоритм-Беллмана-Форда)
+- [А-звезда](docs/common/algorithm/algorithm.md#А-звезда)
 
 ### [Структуры данных](docs/common/data-struct/data-struct.md)
 #### Базовые
