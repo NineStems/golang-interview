@@ -62,7 +62,7 @@
 - [Поиск в глубину](docs/common/algorithm/algorithm.md#Поиск-в-глубину)
 - [Градиентный спуск](docs/common/algorithm/algorithm.md#Градиентный-спуск)
 - [Алгоритм Дейкстры](docs/common/algorithm/algorithm.md#Алгоритм-Дейкстры)
-- [Обмен ключами Диффи-Хеллмана](docs/common/algorithm/algorithm.md#Обмен-ключами-Диффи Хеллмана)
+- [Обмен ключами Диффи-Хеллмана](docs/common/algorithm/algorithm.md#Обмен-ключами-Диффи-Хеллмана)
 
 ### [Структуры данных](docs/common/data-struct/data-struct.md)
 #### Базовые
