@@ -54,8 +54,12 @@
 #### Базовые
 ##### Поиск и обход
 - [Бинарный поиск](docs/common/algorithm/algorithm.md#Бинарный-поиск)
-- [Поиск в ширину](docs/common/algorithm/algorithm.md#Поиск-в-ширину)
-- [Поиск в глубину](docs/common/algorithm/algorithm.md#Поиск-в-глубину)
+- [Скользящее окно](docs/common/algorithm/algorithm.md#Скользящее-окно)
+- [Два Указателя/Итератора](docs/common/algorithm/algorithm.md#Два-Указателя/Итератора)
+- [Быстрые и медленные Указатели/Итераторы](docs/common/algorithm/algorithm.md#Быстрые-и-медленные-Указатели/Итераторы)
+- [Поиск в ширину/Дерево BFS](docs/common/algorithm/algorithm.md#Поиск-в-ширину)
+- [Поиск в глубину/Дерево DFS](docs/common/algorithm/algorithm.md#Поиск-в-глубину)
+- [Слияние интервалов](docs/common/algorithm/algorithm.md#Слияние-интервалов)
 ##### Сортировка
 - [Сортировки пузырьком](docs/common/algorithm/algorithm.md#Сортировки-пузырьком)
 - [Сортировка выбором](docs/common/algorithm/algorithm.md#Сортировка-выбором)
@@ -64,15 +68,19 @@
 - [Сортировка слиянием](docs/common/algorithm/algorithm.md#Сортировка-слиянием)
 - [Топологическая сортировка](docs/common/algorithm/algorithm.md#Топологическая-сортировка)
 - [Сортировка подсчётом](docs/common/algorithm/algorithm.md#Сортировка-подсчётом)
+- [Циклическая сортировка](docs/common/algorithm/algorithm.md#Циклическая-сортировка)
 #### Продвинутые
 ##### Поиск и обход
+- [Топ К-элементов](docs/common/algorithm/algorithm.md#Топ-К-элементов)
+- [K-way слияние](docs/common/algorithm/algorithm.md#K-way-слияние)
 - [Кодирование Хаффмена](docs/common/algorithm/algorithm.md#Кодирование-Хаффмена)
 - [Градиентный спуск](docs/common/algorithm/algorithm.md#Градиентный-спуск)
 - [Алгоритм Дейкстры](docs/common/algorithm/algorithm.md#Алгоритм-Дейкстры)
 - [Обмен ключами Диффи-Хеллмана](docs/common/algorithm/algorithm.md#Обмен-ключами-Диффи-Хеллмана)
-- [Quickselect](docs/common/algorithm/algorithm.md#Quickselect)
+- [Quick-select](docs/common/algorithm/algorithm.md#Quickselect)
 - [Алгоритм Беллмана Форда](docs/common/algorithm/algorithm.md#Алгоритм-Беллмана-Форда)
 - [А-звезда](docs/common/algorithm/algorithm.md#А-звезда)
+- [Двоичная куча](docs/common/algorithm/algorithm.md#Двоичная-куча)
 
 ### [Структуры данных](docs/common/data-struct/data-struct.md)
 #### Базовые
@@ -91,7 +99,6 @@
 - [Непересекающиеся множества](docs/common/data-struct/data-struct.md#Непересекающиеся-множества)
 - [Префиксное и нагруженные деревья](docs/common/data-struct/data-struct.md#Префиксное-и-нагруженные-деревья)
 - [Список с пропусками](docs/common/data-struct/data-struct.md#Список-с-пропусками)
-
 
 ### [Микросервисы](docs/common/microservice/microservice.md)
 
