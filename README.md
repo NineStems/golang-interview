@@ -104,9 +104,10 @@
 
 ### [Инфраструктура и деплой](docs/common/infra/infra.md)
 
-### [Очереди](docs/common/queue/queue.md)
-- [RabbitMQ](docs/common/queue/queue.md#RabbitMQ)
-- [Kafka](docs/common/queue/queue.md#Kafka)
+### Брокеры сообщений
+- [Гарантии доставки](docs/common/message-brokers/delivery-guarantee.md)
+- [RabbitMQ](docs/common/message-brokers/rabbitMQ.md)
+- [Kafka](docs/common/message-brokers/kafka.md)
 
 ## [Базы данных](docs/db/db.md#Базы-данных)
 
