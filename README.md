@@ -102,7 +102,7 @@
 
 ### [Микросервисы](docs/common/microservice/microservice.md)
 
-### [Инфраструктура и деплой](docs/common/infra/infra.md)
+### [Инфраструктура, деплой и ОС](docs/common/infra/infra.md)
 
 ### Брокеры сообщений
 - [Гарантии доставки](docs/common/message-brokers/delivery-guarantee.md)
@@ -110,6 +110,9 @@
 - [Kafka](docs/common/message-brokers/kafka.md)
 
 ## [Базы данных](docs/db/db.md#Базы-данных)
+### [Базовое](docs/db/db.md#Базовое)
+### [Основные понятия](docs/db/db.md#Основные-понятия)
+### [Паттерны](docs/db/db.md#Паттерны)
 
 ## Языковые вопросы
 ### [SQL](docs/lang/plsql/plsql.md)
