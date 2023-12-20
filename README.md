@@ -129,3 +129,4 @@
 - [Вопросы для собеседования Golang разработчика](https://medium.com/@victor_nerd/golang-interview-questions-bd3064f2ff69)
 - [Коллеги, вы меня огорчаете](https://habr.com/ru/company/oleg-bunin/blog/521582/)
 - [Подготовка к собеседованию в FAANG](https://habr.com/ru/companies/skillfactory/articles/539058/)
+- [Список полезных статей по Golang](docs/articles.md)
