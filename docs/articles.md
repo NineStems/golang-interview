@@ -27,7 +27,8 @@
 -	[Организация кода в go](https://habrahabr.ru/post/308198/)
 -	[Как не наступать на грабли в Go](https://habrahabr.ru/post/325468/)
 -	[Советы по огранизации Golang кода](https://blog.golang.org/organizing-go-code)
-- [Хитрости и проблемы Golang](https://habr.com/ru/company/mailru/blog/314804/)  
+- [Хитрости и проблемы Golang](https://habr.com/ru/company/mailru/blog/314804/)
+- [Range Loop в Go v1.22](https://habr.com/ru/companies/yandex_praktikum/articles/783504)
 ### Пакеты и их организация
 -	[Разбираемся в Go: пакет io](https://habr.com/ru/post/306914/)
 -	[Пакеты и зависимости](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
